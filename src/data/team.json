@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Yuzan rai",
+    "position": "Frontend Developer",
+    "age": 21,
+    "photo": "/team/yuzan.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Biraj Thapa",
+    "position": "Frontend Developer",
+    "age": 24,
+    "photo": "/team/biraj.jpeg"
+  },{
+    "id":3,
+    "name":"Satish Timisina",
+    "position":"Frontend Developer",
+    "age":"22",
+    "photo":"/team/satish.jpeg"
+  }
+]
